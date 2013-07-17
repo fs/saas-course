@@ -25,3 +25,4 @@
 - heroku free app
 
 ## Add FS as collaborator for heroku app
+- fs-courses@flatstack.com
